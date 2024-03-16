@@ -406,7 +406,7 @@ section .title::after {
 .contact .contact-content .icons {
     width: 100%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
 }
