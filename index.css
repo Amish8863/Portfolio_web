@@ -406,10 +406,9 @@ section .title::after {
 .contact .contact-content .icons {
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-    gap: 10rem;
 }
 
 .contact .contact-content .row i {
